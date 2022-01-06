@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**NivBouzaglo/NivBouzaglo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 i'm Niv Bouzaglo
+  A software developer from israel
+ 
+- 🌱 I’m currently study Computer Science in Ben Gurion University
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with find a student job
+- 📫 How to reach me:
+     nivbozaglo@gmail.com
+     
+Connect with me:
+  https://www.linkedin.com/in/niv-bouzaglo/
