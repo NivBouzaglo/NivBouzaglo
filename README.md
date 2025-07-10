@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Niv Bouzaglo
-  A software developer from Israell
+  A Mobile developer from Israell
   
-- 🤔 Work At *RAD data communications* 
-- 🌱 I’m currently in my final year in Computer Science at Ben Gurion University
-- 👯 I’m looking to collaborate on 
+- 🤔 Work At *WIX* 
+- 🌱 I have a bachler degree in Computer Science at Ben Gurion University
 - 📫 How to reach me:
      nivbozaglo@gmail.com
      
